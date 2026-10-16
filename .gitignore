@@ -1,0 +1,56 @@
+# Unity — generated folders (rebuilt when the project is opened)
+/unity/[Ll]ibrary/
+/unity/[Tt]emp/
+/unity/[Oo]bj/
+/unity/[Bb]uild/
+/unity/[Bb]uilds/
+/unity/[Ll]ogs/
+/unity/[Uu]ser[Ss]ettings/
+/unity/[Mm]emoryCaptures/
+/unity/[Rr]ecordings/
+/unity/.vs/
+/unity/.utmp/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.appx
+*.msix
+*.appxbundle
+/unity/AppPackages/
+crashlytics-build.properties
+ignore.conf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and local settings
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large media — link videos instead of committing them
+*.mp4
+*.mov
+*.avi
+*.mkv
